@@ -1,4 +1,4 @@
 # coding-study
-##This is  Min-Young's Git
+This is  Min-Young's Git
 
-##Bye~
+Bye~
